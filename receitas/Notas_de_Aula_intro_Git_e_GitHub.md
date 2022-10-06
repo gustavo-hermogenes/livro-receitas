@@ -110,4 +110,4 @@ Deve-se fazer o pull, resolver os conflitos, e depois fazer novamente o push.
 
 ## Git clone
 
-- \> git clone url_do_repositório_que_se_deseja_clonar: clona o repositório do GitHub cujo link é url_do_repositório_que_se_deseja_clonar para o diretório local, sendo que o repositório clonado não apenas uma pasta, mas um repositório completo que que carrega os metadados e informações de commit desde o original, como autor, datas e repositórios remotos vinculados.
+- \> git clone url_do_repositório_que_se_deseja_clonar: clona o repositório do GitHub cujo link é url_do_repositório_que_se_deseja_clonar para o diretório local, sendo que o repositório clonado não é apenas uma pasta, mas um repositório completo que carrega os metadados e informações de commit desde o original, como autor, datas e repositórios remotos vinculados.
